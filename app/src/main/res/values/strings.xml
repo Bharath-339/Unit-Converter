@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string-array name="countries">
+        <item>India</item>
+        <item>Australia</item>
+        <item>Japan</item>
+        <item>china</item>
+        <item>America</item>
+        <item>France</item>
+        <item>Sri lanka</item>
+        <item>Burma</item>
+        <item>Myanmar</item>
+        <item>Pakistan</item>
+    </string-array>
+
+    <string-array name="names">
+        <item>Bharath</item>
+        <item>Teddy Bear</item>
+        <item>Mouni</item>
+        <item>Sunny</item>
+        <item>Chinnu</item>
+        <item>Alekhya</item>
+        <item>Hmm</item>
+    </string-array>
+
+
+</resources>
